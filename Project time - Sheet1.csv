@@ -1,0 +1,6 @@
+time,description,date,person
+3 hours,"Building on skeleton, working on the 1st battle.",11/19,Roberto
+3Hours,Creating functions for the enemy in the 1st battle.,11/19,Ethan
+1 Hour,"Fixing the skeleton, wouldn't return back correct health decrease.",11/22,Roberto
+3 hours,Changing the outputs for functions into a sctruct for health. Work on custom dice.,12/4,Roberto
+3 hours,Learning ncurses.,12/4,Ethan
